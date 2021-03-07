@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+
+<hr>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api//?username=harzulu&theme=midnight-purple" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harzulu&theme=midnight-purple" />
+</p>
+
 <!--
 **DanielAdeyemi/DanielAdeyemi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
