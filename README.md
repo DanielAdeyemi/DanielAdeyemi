@@ -1,12 +1,11 @@
-### Hi there, I'm Daniel <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+## <div align="center"> Hi there, I'm Daniel <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> </div>
 
-## I am a Student at Epicodus coding school and learning how to make this world a better place!  <img align="right" src="https://visitor-badge.glitch.me/badge?page_id=DanielAdeyemi" alt="visitor badge"/>
+###  <div align="center"> I am a Student at Epicodus coding school and learning how to make this world a better place! </div>  <img align="right" src="https://visitor-badge.glitch.me/badge?page_id=DanielAdeyemi" alt="visitor badge"/>
 - 🔭 I’m currently working on multiple projects in our school
 - 🌱 I’m currently learning **C#/.NET** 
 - 📝 My 2021 Goal: Create/ collaborate on good open source project
  - ⚡ Fun fact: bilingual 🇺🇸🇷🇺, chemist 🧪, basketball referee 🏀
 
-<br />
 
 ### Tools and Languages:
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
@@ -21,7 +20,8 @@
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 <br />
-
+<details>
+<summary>Check my Stats here</summary>
 <hr>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api//?username=DanielAdeyemi&show_icons=true&count_private=true&theme=midnight-purple" />
@@ -29,7 +29,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielAdeyemi&layout=compact&theme=midnight-purple" />
 </p>
-
+</details>
 <br />
 
 ### Let's connect:
