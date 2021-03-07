@@ -1,17 +1,10 @@
-### Hi there, I'm Daniel 👋
+### Hi there, I'm Daniel <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-## I am a Student at Epicodus coding school and learning how to make this world a better place!  <img src="https://visitor-badge.glitch.me/badge?page_id=DanielAdeyemi" alt="visitor badge"/>
+## I am a Student at Epicodus coding school and learning how to make this world a better place!  <img align="right" src="https://visitor-badge.glitch.me/badge?page_id=DanielAdeyemi" alt="visitor badge"/>
 - 🔭 I’m currently working on multiple projects in our school
 - 🌱 I’m currently learning **C#/.NET** 
 - 📝 My 2021 Goal: Create/ collaborate on good open source project
  - ⚡ Fun fact: bilingual 🇺🇸🇷🇺, chemist 🧪, basketball referee 🏀
-<hr>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api//?username=DanielAdeyemi&show_icons=true&count_private=true&theme=midnight-purple" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielAdeyemi&layout=compact&theme=midnight-purple" />
-</p>
 
 <br />
 
@@ -29,6 +22,15 @@
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 <br />
 
+<hr>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api//?username=DanielAdeyemi&show_icons=true&count_private=true&theme=midnight-purple" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielAdeyemi&layout=compact&theme=midnight-purple" />
+</p>
+
+<br />
 
 ### Let's connect:
 [<img align="left" alt="Daniel | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
