@@ -4,11 +4,11 @@
     <img margin-left="auto" margin-right="auto" display="block" src="https://img.shields.io/badge/-LinkedIn-black.svg?style=flat&logo=linkedin&logoColor=white&colorB=0A66C2">
 </a>
 
-###  <div align="center"> I am a Student at Epicodus coding school (📍 Portland, Oregon) and learning how to make this world a better place! </div>  <img align="right" src="https://visitor-badge.glitch.me/badge?page_id=DanielAdeyemi" alt="visitor badge"/>
+###  <div align="center"> I am a Student at Epicodus coding school *(📍 Portland, Oregon)* and learning how to make this world a better place! </div>  <img align="right" src="https://visitor-badge.glitch.me/badge?page_id=DanielAdeyemi" alt="visitor badge"/>
 - 🔭 I’m currently working on multiple projects in our school
 - 🌱 I’m currently learning **C#/.NET** 
-- 📝 My 2021 Goal: Create/ collaborate on good open source project
- - ⚡ Fun fact: bilingual 🇺🇸🇷🇺, chemist 🧪, basketball referee 🏀
+-  ***📝 My 2021 Goal:*** Create/ collaborate on good open source project
+ - ⚡ Fun facts: bilingual 🇺🇸🇷🇺, chemist 🧪, basketball referee 🏀
 <br />
 
 ### Tools and Languages:
