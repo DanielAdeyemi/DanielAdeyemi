@@ -8,7 +8,7 @@
 - 🔭 I’m currently working on multiple projects in our school
 - 🌱 I’m currently learning **C#/.NET** 
 -  ***📝 My 2021 Goal:*** Create/ collaborate on good open source project
- - ⚡ Fun facts: bilingual 🇺🇸🇷🇺, chemist 🧪, basketball referee 🏀
+ - ⚡ Interesting facts about me: bilingual 🇺🇸🇷🇺, chemist 🧪, basketball referee 🏀
 <br />
 
 ### Tools and Languages:
