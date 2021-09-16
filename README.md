@@ -6,7 +6,7 @@
 
 ###  <div align="center"> I graduated from Epicodus coding school *(📍 Portland, Oregon)* and try to make this world a better place! </div>  <img align="right" src="https://visitor-badge.glitch.me/badge?page_id=DanielAdeyemi" alt="visitor badge"/>
 - 🔭 I’m currently intern in Roboboogie and building A/B tests and working with FullStories
-- 🌱 I’m currently learning **React framework** 
+- 🌱 I’m currently learning **React framework** and on CS50 Web track with HarvradX learning **Python and Django**
 -  ***📝 My 2021 Goal:*** Create/ collaborate on good open source project
  - ⚡ Interesting facts about me: bilingual 🇺🇸🇷🇺, chemist 🧪, basketball referee 🏀
 <br />
