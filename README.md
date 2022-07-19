@@ -5,7 +5,7 @@
 </a>
 
 ###  <div align="center"> I graduated from Epicodus coding school *(📍 Portland, Oregon)* and try to make this world a better place! </div>  <img align="right" src="https://visitor-badge.glitch.me/badge?page_id=DanielAdeyemi" alt="visitor badge"/>
-- 🔭 I’m currently intern in Fiction Tribe
+- 🔭 I’m currently working in Fiction Tribe
 - 🌱 I’m currently learning **React framework** and **Python and Django** on CS50 Web track with HarvradX
 -  ***📝 My 2022 Goal:*** Create/ collaborate on good open source project
  - ⚡ Interesting facts about me: bilingual 🇺🇸🇷🇺, chemist 🧪, basketball referee 🏀
