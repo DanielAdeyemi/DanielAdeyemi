@@ -1,4 +1,4 @@
-## <div align="center"> Hi there, I'm Daniel  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="30px">  </div> 
+## <div align="center"> Hi there, I'm Daniel  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">  </div> 
 
 <a href="https://www.linkedin.com/in/danieladeyemi/">
     <img margin-left="auto" margin-right="auto" display="block" src="https://img.shields.io/badge/-LinkedIn-black.svg?style=flat&logo=linkedin&logoColor=white&colorB=0A66C2">
