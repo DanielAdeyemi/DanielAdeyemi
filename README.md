@@ -7,7 +7,7 @@
 ###  <div align="center"> I graduated from Epicodus coding school and was working for few companies including Microsoft. Now while I am looking for new job I am studing and try to make this world a better place! </div>  <img align="right" src="https://visitor-badge.glitch.me/badge?page_id=DanielAdeyemi" alt="visitor badge"/>
 - 🔭 I’m currently working in Fiction Tribe
 - 🌱 I’m currently learning **React framework** and **Python and Django** on CS50 Web track with HarvradX
--  ***📝 My 2022 Goal:*** Create/ collaborate on good open source project
+-  ***📝 My 2025 Goal:*** Create/ collaborate on good open source project, get MAANG job or NBA
  - ⚡ Interesting facts about me: bilingual 🇺🇸🇷🇺, chemist 🧪, basketball referee 🏀
 <br />
 
